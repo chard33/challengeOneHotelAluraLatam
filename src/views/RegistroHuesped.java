@@ -370,10 +370,8 @@ public class RegistroHuesped extends JFrame {
 													 JOptionPane.WARNING_MESSAGE) == 0){
 						cH.guardarH(h);
 						
-						JOptionPane.showMessageDialog(null, "Guardado exitoso!!");
-						
-						MenuUsuario menu = new MenuUsuario();
-						menu.setVisible(true);
+						Exito exito = new Exito();
+						exito.setVisible(true);
 						dispose();
 					}
 				}
