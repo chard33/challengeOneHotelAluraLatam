@@ -12,3 +12,4 @@
 - `Funcionalidad 4`: Registrar, editar y eliminar datos de los huéspedes
 - `Funcionalidad 5`: Calcular el valor de la reserva.
 
+![](https://github.com/chard33/challengeOneHotelAluraLatam/raw/main/img/aluraHotel.gif)
